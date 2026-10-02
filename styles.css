@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f6f9;
+  margin: 0;
+  text-align: center;
+}
+section {
+  max-width: 500px;
+  margin: 60px auto;
+  background: white;
+  padding: 24px;
+  border-radius: 6px;
+}
+h1 {
+  color: #04AA6D;
+}
+
+button {
+  background:#04AA6D;
+  color:white;
+  border:solid;
+  padding:10px 18px;
+  border-radius:4px;
+  border-color:#04AA6D;
+
+}
+button.secondaryBtn {
+  background:white;
+  color:#04AA6D;
+  border:solid;
+  padding:10px 18px;
+  border-radius:4px;
+  border-color:#04AA6D;
+}
+
+.theme{
+  background:#04AA6D;
+  color:white;
+  border:solid;
+  padding:10px 18px;
+  border-radius:4px;
+  border-color:#04AA6D;
+
+
+}
